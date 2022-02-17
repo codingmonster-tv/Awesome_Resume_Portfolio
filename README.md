@@ -25,5 +25,6 @@
 
 ## 참고하기 좋은 이력서들
 
-1. [카카오페이 안드로이드 신입 개발자 김현준님 이력서](https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e)
-2. [이스트소프트 백앤드 신입 개발자 김석현님 이력서](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d)
+1. [카카오페이 안드로이드 신입 개발자 김현준 이력서](https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e)
+2. [이스트소프트 백앤드 신입 개발자 김석현 이력서](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d)
+3. [스타트업 시니어 개발자 삼촌 이력서](https://github.com/samchon/resume)
