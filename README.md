@@ -27,9 +27,10 @@
 ## 참고할만 한 이력서들
 
 1. [카카오페이 안드로이드 신입 개발자 김현준 이력서](https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e)
-2. [이스트소프트 백앤드 신입 개발자 김석현 이력서](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d)
-3. [스타트업 시니어 개발자 삼촌 이력서](https://github.com/samchon/resume)
-4. [스타트업 머신러닝 엔지니어 코몬 이력서](https://docs.google.com/document/d/1odfH0H_wM1XfiPy1S59zjMGwRyo7DsJShd9nWH3DB70/edit?usp=sharing)
+    1. [김현준님 이력서 분석 동영상](https://www.youtube.com/watch?v=8xvYz0ldfEI)
+3. [이스트소프트 백앤드 신입 개발자 김석현 이력서](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d)
+4. [스타트업 시니어 개발자 삼촌 이력서](https://github.com/samchon/resume)
+5. [스타트업 머신러닝 엔지니어 코몬 이력서](https://docs.google.com/document/d/1odfH0H_wM1XfiPy1S59zjMGwRyo7DsJShd9nWH3DB70/edit?usp=sharing)
 
 ## 좋은 자료들
 1. [유튜브 - 서류탈락하는 개발자 포트폴리오의 특징](https://www.youtube.com/watch?v=PJGsPohDuoA)
