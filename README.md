@@ -20,12 +20,13 @@
 4. 어딘가에 제출할때에는 Google Docs의 출력기능으로 PDF파일로 내보내거나, 공유하기 링크를 통해 제출한다
 5. 본 Repo에 Star를 누른다 
 
-### 참고할만 한 이력서들
-1. [스타트업 머신러닝 엔지니어 코몬 이력서](http://dongyi.kim)
-2. [카카오페이 안드로이드 신입 개발자 김현준 이력서](https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e)
-    1. [김현준님 이력서 분석 동영상](https://www.youtube.com/watch?v=8xvYz0ldfEI)
-3. [이스트소프트 백앤드 신입 개발자 김석현 이력서](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d)
-4. [스타트업 시니어 개발자 삼촌 이력서](https://github.com/samchon/resume)
+### 참고할만한 이력서 예시들 
+| 소유자  | 포지션 | 특징 |URL |
+| ------------- | ------------- | ------------- | ------------- |
+| 코몬(Repo Owner) | 머신러닝 엔지니어 | 구글 Docs, 석사  | http://dongyi.kim |
+| 카카오페이 김현준님 | 안드로이드 엔지니어 | 노션 포트폴리오 | https://www.youtube.com/watch?v=8xvYz0ldfEI |
+| 이스트소프트 김석현(Lob)님 | 백앤드 엔지니어 | 노션 | https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d |
+| 스타트업 개발자 Samchon님 | 백앤드 엔지니어 | 깃허브 이력서 | https://github.com/samchon/resume |
 
 
 ### 좋은 자료들
