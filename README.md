@@ -23,7 +23,7 @@
 ### 참고할만한 이력서 예시들 
 | 소유자  | 포지션 | 특징 |URL |
 | ------------- | ------------- | ------------- | ------------- |
-| 코몬(Repo Owner) | 머신러닝 엔지니어 | 구글 Docs, 석사  | http://dongyi.kim |
+| 코몬(Repo Owner) | 머신러닝 엔지니어 | 구글 Docs,   | http://dongyi.kim |
 | 카카오페이 김현준님 | 안드로이드 엔지니어 | 노션 포트폴리오 | https://www.youtube.com/watch?v=8xvYz0ldfEI |
 | 이스트소프트 김석현(Lob)님 | 백앤드 엔지니어 | 노션 | https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d |
 | 스타트업 개발자 Samchon님 | 백앤드 엔지니어 | 깃허브 이력서 | https://github.com/samchon/resume |
