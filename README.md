@@ -22,14 +22,15 @@
 4. 어딘가에 제출할때에는 Google Docs의 출력기능으로 PDF파일로 내보내거나, 공유하기 링크를 통해 제출한다
 5. 본 Repo에 Star를 누른다
 
+
 ### 참고할만한 이력서 예시들
-| 소유자  | 포지션 | 특징 |URL |
-| ------------- | ------------- | ------------- | ------------- |
-| 코몬(Repo Owner) | 머신러닝 엔지니어 | 구글 Docs,   | http://dongyi.kim |
-| 카카오페이 김현준님 | 안드로이드 엔지니어 | 노션 포트폴리오 | https://www.youtube.com/watch?v=8xvYz0ldfEI |
-| 이스트소프트 김석현(Lob)님 | 백앤드 엔지니어 | 노션 | https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d |
-| 스타트업 개발자 Samchon님 | 백앤드 엔지니어 | 깃허브 이력서 | https://github.com/samchon/resume |
-| 라인플러스 박준성님 | 머신러닝 엔지니어 | 노션 | https://writtic.me |
+| 소유자  | 포지션 | 참고사항 |
+| ------------- | ------------- | ------------- |
+| [코몬(Repo Owner) 이력서](http://dongyi.kim) | 머신러닝 엔지니어 | 구글 Docs 사용 |
+| [카카오페이 김현준님](https://www.youtube.com/watch?v=8xvYz0ldfEI) | 안드로이드 엔지니어 | 노션 포트폴리오 |
+| [이스트소프트 김석현(Lob)님](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) | 백앤드 엔지니어 | 노션 포트폴리오 |
+| [스타트업 리드 개발자 Samchon님](https://github.com/samchon/resume) | 백앤드 엔지니어 | 깃허브 이력서 |
+| [라인플러스 박준성님](https://writtic.me) | 머신러닝 엔지니어 | 노션 |
 
 
 ### 좋은 자료들
