@@ -25,9 +25,9 @@
 ### 참고할만한 이력서 예시들 
 | 소유자  | 포지션 | 참고사항 |
 | ------------- | ------------- | ------------- |
-| [코몬(Repo Owner) 이력서](http://dongyi.kim) | 머신러닝 엔지니어 | 구글 Docs |
+| [코몬(Repo Owner) 이력서](http://dongyi.kim) | 머신러닝 엔지니어 | 구글 Docs 사용 |
 | [카카오페이 김현준님](https://www.youtube.com/watch?v=8xvYz0ldfEI) | 안드로이드 엔지니어 | 노션 포트폴리오 |
-| [이스트소프트 김석현(Lob)님](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) | 백앤드 엔지니어 | 노션  |
+| [이스트소프트 김석현(Lob)님](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) | 백앤드 엔지니어 | 노션 포트폴리오 |
 | [스타트업 리드 개발자 Samchon님](https://github.com/samchon/resume) | 백앤드 엔지니어 | 깃허브 이력서 |
 
 
