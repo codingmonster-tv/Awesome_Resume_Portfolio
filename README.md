@@ -1,5 +1,7 @@
 # Awesome_Resume_Portfolio
-개발자의 서류 작성에 유용한 자료들을 모아두는 Repo입니다. [**이력서 포맷/예시 바로가기 링크**](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/edit?usp=sharing)
+개발자의 서류 작성에 유용한 자료들을 모아두는 Repo입니다. 
+- [**이력서 포맷/예시 바로가기 링크**](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/edit?usp=sharing)
+
 본 레포에서 제공하는 이력서 포맷은 여러 멘토링과 컨설팅을 통해 구직/구인을 해본 경험을 기반으로 100% 제 주관으로 만든 내용입니다. 본인의 마음에 들지 않는다면 적당히 수정하여 사용해주세요. 
 
 **특징**
