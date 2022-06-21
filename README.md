@@ -31,6 +31,8 @@
 | [이스트소프트 김석현(Lob)님](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) | 백앤드 엔지니어 | 노션 포트폴리오 |
 | [스타트업 리드 개발자 Samchon님](https://github.com/samchon/resume) | 백앤드 엔지니어 | 깃허브 이력서 |
 | [라인플러스 박준성님](https://writtic.me) | 머신러닝 엔지니어 | 노션 포트폴리오 |
+| [소프트웨어 개발/엔지니어 김민교님](https://savory-indigo-2d3.notion.site/MINGYO-KIM-019b9c28003e4233bbb95bc9e73a84fd) | 데이터 사이언티스트 | 노션 포트폴리오 |
+
 
 
 ### 좋은 자료들
