@@ -33,6 +33,7 @@
 | [라인플러스 박준성님](https://writtic.me) | 머신러닝 엔지니어 | 노션 포트폴리오 |
 | [루닛 강철민님](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio/files/8949609/Cholmin.Kang_CV_Final.pdf) | 머신러닝 리서쳐 | LaTex PDF |
 | [GE 박진우님](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio/files/8950899/Resume-Jinwoo-2022.mid_Descrete.pdf) | 임베디드 엔지니어 | Word PDF |
+| [차이코퍼레이션 한상진님](https://github.com/ltnscp9028/Awesome_Resume_Portfolio/files/8951089/y0on2q_resume_rc3_mark.pdf) | 백앤드 엔지니어 | Adobe XD PDF |
 
 
 ### 좋은 자료들
