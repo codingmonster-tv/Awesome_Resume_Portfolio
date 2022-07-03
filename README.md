@@ -31,11 +31,10 @@
 | [당근마켓 이정윤님](https://promm.dev/about/) | 프론트엔드 엔지니어 | 웹 이력서 |
 | [이스트소프트 김석현(Lob)님](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) | 백앤드 엔지니어 | 노션 포트폴리오 |
 | [스타트업 리드 개발자 Samchon님](https://github.com/samchon/resume) | 백앤드 엔지니어 | 깃허브 이력서 |
-| [차이코퍼레이션 한상진님](https://github.com/ltnscp9028/Awesome_Resume_Portfolio/files/8951089/y0on2q_resume_rc3_mark.pdf) | 백앤드 엔지니어 | Adobe XD PDF |
+| [차이코퍼레이션 Y0on2q(윤익후)님](https://github.com/ltnscp9028/Awesome_Resume_Portfolio/files/8951089/y0on2q_resume_rc3_mark.pdf) | 백앤드 엔지니어 | Adobe XD PDF |
 | [라인플러스 박준성님](https://writtic.me) | 머신러닝 엔지니어 | 노션 포트폴리오 |
 | [루닛 강철민님](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio/files/8949609/Cholmin.Kang_CV_Final.pdf) | 머신러닝 리서쳐 | LaTex PDF |
 | [GE 박진우님](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio/files/8950899/Resume-Jinwoo-2022.mid_Descrete.pdf) | 임베디드 엔지니어 | Word PDF |
-
 
 ### 좋은 자료들
 1. [유튜브 - 서류탈락하는 개발자 포트폴리오의 특징](https://www.youtube.com/watch?v=PJGsPohDuoA)
