@@ -41,3 +41,4 @@
 1. [유튜브 - 서류탈락하는 개발자 포트폴리오의 특징](https://www.youtube.com/watch?v=PJGsPohDuoA)
 2. [유튜브 - 신입 개발자 이력서 작성 방법의 모든 것 1부 with 나동빈 이력서](https://www.youtube.com/watch?v=qeFJ6UwjxmU)
 3. [유튜브 - 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다](https://www.youtube.com/watch?v=1bcmmc2rTBE)
+4. [무료 ATS 이력서 검사기 — 브라우저에서 파싱 적합도·채용공고 키워드 매칭 점검 (오픈소스)](https://hugounoclaw.github.io/ats-checker/)
