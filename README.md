@@ -38,6 +38,7 @@
 | [토스 함종현님](https://refresh.cv/jh.ham) | 백엔드 엔지니어 | 리프레시 이력서 |
 
 ### 좋은 자료들
-1. [유튜브 - 서류탈락하는 개발자 포트폴리오의 특징](https://www.youtube.com/watch?v=PJGsPohDuoA)
-2. [유튜브 - 신입 개발자 이력서 작성 방법의 모든 것 1부 with 나동빈 이력서](https://www.youtube.com/watch?v=qeFJ6UwjxmU)
-3. [유튜브 - 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다](https://www.youtube.com/watch?v=1bcmmc2rTBE)
+1. [ResumeAI](https://withresumeai.com/) - AI 이력서 빌더 + 무료 ATS 체크 (계정 없이 3회/일)
+2. [유튜브 - 서류탈락하는 개발자 포트폴리오의 특징](https://www.youtube.com/watch?v=PJGsPohDuoA)
+3. [유튜브 - 신입 개발자 이력서 작성 방법의 모든 것 1부 with 나동빈 이력서](https://www.youtube.com/watch?v=qeFJ6UwjxmU)
+4. [유튜브 - 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다](https://www.youtube.com/watch?v=1bcmmc2rTBE)
